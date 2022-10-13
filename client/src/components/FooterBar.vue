@@ -11,14 +11,14 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <div class="footer__nav">
+                <!-- <div class="footer__nav">
                     <ul>
                         <li class="active"><a href="./index.html">Homepage</a></li>
                         <li><a href="./categories.html">Categories</a></li>
                         <li><a href="./blog.html">Our Blog</a></li>
                         <li><a href="#">Contacts</a></li>
                     </ul>
-                </div>
+                </div> -->
             </div>
             <div class="col-lg-3">
                 <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
